@@ -1,4 +1,3 @@
 geopandas
-h3
 matplotlib
 shapely
